@@ -1,4 +1,4 @@
-# Connor Lindsay
+## Connor Lindsay
 
 Hello there. 
 
@@ -8,6 +8,8 @@ General KENOBI. (cough cough cough)
 - This could be a better site
 - Not terrible basic formatting though
 
-IT'S A TRAP!
-Raise all deflector sheilds!
+IT'S A TRAP!  
+Raise all deflector sheilds!  
 Full Retreat
+
+This is a test. 1,2,3
